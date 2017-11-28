@@ -44,9 +44,9 @@ Conditional execution
 
 Jarbas also accepts conditional execution of instructions::
 
-    =if $is_minor(age)
+    =if is_minor(age)
     You cannot proceed.
-    =elif Do you want to proceed? [proceed=bool]
+    =elif= Do you want to proceed? [proceed=bool]
     Ok, let's go!
     =else
     Bye!
