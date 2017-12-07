@@ -51,3 +51,26 @@ Jarbas also accepts conditional execution of instructions::
     =else
     Bye!
     =endif
+
+
+Developers
+=========
+Universidade de Brasília - UnB
+
+Fundamentos de Compiladores - 2/2017
+
+    **Daniel Ashton Oda** - 15/0008121
+
+    **Fabíola Malta Fleury** - 15/0009275
+
+    **Filipe Coelho Hilário Barcelos** - 15/0059213
+
+    **Hugo Neves de Carvalho** - 15/0011792
+
+    **Joao G. Saliba** - 15/0012934
+
+    **Josué Nascimento da Silva** - 15/0038933
+
+    **Pablo Diego Silva da Silva** - 15/0019475
+
+    **Rodrigo Oliveira Campos** - 150021399
